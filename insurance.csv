@@ -1,0 +1,22 @@
+| age | weight | height | income_lpa | smoker | city_tier | occupation          | insurance_premium_category |
+| --: | -----: | -----: | ---------: | ------ | --------- | ------------------- | -------------------------- |
+|  22 |     58 |    165 |        4.5 | No     | Tier 2    | Student             | Low                        |
+|  25 |     72 |    175 |        6.2 | No     | Tier 1    | Software Engineer   | Low                        |
+|  29 |     80 |    178 |        8.5 | Yes    | Tier 1    | Business            | High                       |
+|  32 |     68 |    170 |        7.2 | No     | Tier 2    | Teacher             | Medium                     |
+|  35 |     90 |    180 |       12.5 | Yes    | Tier 1    | Manager             | High                       |
+|  38 |     76 |    172 |        9.8 | No     | Tier 2    | Accountant          | Medium                     |
+|  41 |     95 |    175 |       15.2 | Yes    | Tier 1    | Business            | High                       |
+|  45 |     82 |    168 |       11.5 | No     | Tier 2    | Government Employee | Medium                     |
+|  48 |     88 |    174 |       18.0 | Yes    | Tier 1    | Doctor              | High                       |
+|  52 |     78 |    169 |       10.2 | No     | Tier 3    | Farmer              | Medium                     |
+|  55 |     92 |    176 |       14.5 | Yes    | Tier 2    | Business            | High                       |
+|  27 |     63 |    167 |        5.8 | No     | Tier 3    | Designer            | Low                        |
+|  31 |     74 |    173 |        8.0 | No     | Tier 1    | Developer           | Medium                     |
+|  36 |     85 |    179 |       13.2 | Yes    | Tier 2    | Engineer            | High                       |
+|  43 |     70 |    165 |        9.0 | No     | Tier 3    | Teacher             | Medium                     |
+|  47 |     98 |    182 |       16.5 | Yes    | Tier 1    | Manager             | High                       |
+|  24 |     55 |    160 |        3.8 | No     | Tier 2    | Student             | Low                        |
+|  30 |     69 |    171 |        7.5 | No     | Tier 1    | Analyst             | Low                        |
+|  39 |     87 |    177 |       11.8 | Yes    | Tier 2    | Sales Executive     | High                       |
+|  50 |     81 |    170 |       13.5 | No     | Tier 1    | Lawyer              | Medium                     |
